@@ -5,8 +5,8 @@ Salvador, BA, Brazil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.co
 
 ----
 >   Over 8 years of experience in IT, with strong background in IT infrastructure
->   Advanced development knowledge
->   Self-motivating problem-solver. Easily adaptable to new environment
+  Advanced development Knowledge
+  Self-motivating problem-solver. Easily adaptable to new environment.
 ----
 
 Skills
