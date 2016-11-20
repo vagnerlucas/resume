@@ -49,9 +49,6 @@ Experience
 
 **System Analyst** - Instituto Educar (Salvador, Bahia, Brazil) - 2015 - Actual
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 Primary responsibilities include lead a team to design, develop and mantain a variety of products using:
 
 * OO techniques with C# .NET MVC (WebAPI), Angular JS
