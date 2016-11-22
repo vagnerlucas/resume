@@ -1,7 +1,7 @@
 Vagner Lucas
 ============
 
-| Different languages | [Português](https://github.com/vagnerlucas/resume/blob/master/README-br.md) |
+| Idiomas disponíveis | [Português](https://github.com/vagnerlucas/resume/blob/master/README-br.md) |
 | --------- | --------- |
 
 
