@@ -1,7 +1,7 @@
 Vagner Lucas
 ============
 
-| Idiomas diferentes | [English](https://github.com/vagnerlucas/resume/blob/master/README.md) |
+| Available languages | [English](https://github.com/vagnerlucas/resume/blob/master/README.md) |
 | --------- | --------- |
 
 Salvador, BA, Brasil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas/en)
