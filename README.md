@@ -8,9 +8,9 @@ Vagner Lucas
 Salvador, BA, Brazil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas/en)
 
 ----
-    Over 8 years of experience in IT, with strong background in IT infrastructure. 
+    Over 8 years of experience in IT, with a strong background in IT infrastructure. 
     
-    Advanced development Knowledge. Self-motivating problem-solver. Easily adaptable to new environment.
+    Advanced development Knowledge. Self-motivating problem-solver. Easily adaptable to new environments.
 ----
 
 Skills
@@ -53,7 +53,7 @@ Experience
 
 **System Analyst** - Instituto Educar (Salvador, Bahia, Brazil) - 2015 - Actual
 
-Primary responsibilities include lead a team to design, develop and mantain a variety of products using:
+Primary responsibilities include leading a team to design, develop and maintain a variety of products using:
 
 * OO techniques with C# .NET MVC (WebAPI), Angular JS
 
