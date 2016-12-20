@@ -7,7 +7,7 @@ Vagner Lucas
 Salvador, BA, Brasil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas)
 
 ----
-    Mais de 8 anos de experiência na área de TI, sólido conhecimento em infraestrutura. 
+    Mais de oito anos de experiência na área de TI, sólido conhecimento em infraestrutura. 
     
     Conhecimento avançado em desevolvimento. Motivado para resolver problemas, facilidade para criar soluções.
 ----
