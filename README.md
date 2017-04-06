@@ -51,7 +51,8 @@ Education
 Experience
 ----------
 
-**System Analyst** - Instituto Educar (Salvador, Bahia, Brazil) - 2015 - Actual
+| **System Analyst** | **Instituto Educar (Salvador, Bahia, Brazil)** | 2015 - Actual |
+| - | - | - |
 
 Primary responsibilities include leading a team to design, develop and maintain a variety of products using:
 
@@ -65,11 +66,17 @@ Primary responsibilities include leading a team to design, develop and maintain 
 
     * Keywords: C# .NET, EntityFramework, AngularJS, OpenXML, MVC, Web API, Oracle
 
-**QA Assistant** - GlobalME (Vancouver, BC, Canada) - October/2014
+---
+
+| **QA Assistant** | **GlobalME (Vancouver, BC, Canada)** | **October/2014** |
+| - | - | - |
 
 Tested and provided data for speech recognition software Nuance Dragon
 
-**IT Analyst** - Odebrecht & OAS (Salvador, Bahia, Brazil) - 2010-2014
+---
+
+| **IT Analyst** | **Odebrecht & OAS (Salvador, Bahia, Brazil)** | **2010 - 2014** |
+| - | - | - |
 
 * General management of IT infrastructure
 
@@ -79,7 +86,10 @@ Tested and provided data for speech recognition software Nuance Dragon
 
     * Keywords: ITIL, Network, OS
 
-**Software Programmer** - CTAI – Universidade Federal do Estado da Bahia (Salvador, Bahia, Brazil) - 2009-2010
+---
+
+| **Software Programmer** | **CTAI – Universidade Federal do Estado da Bahia (Salvador, Bahia, Brazil)** | **2009 - 2010** |
+| - | - | - |
 
 * General development (GUI and Core) of an AI tool related to Petrobrás’ oil extraction and analysis. Written in Delphi and Java
 
