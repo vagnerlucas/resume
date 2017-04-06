@@ -9,7 +9,7 @@ Salvador, BA, Brasil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.co
 ----
     Mais de oito anos de experiência na área de TI, sólido conhecimento em infraestrutura. 
     
-    Conhecimento avançado em desevolvimento. Motivado para resolver problemas, facilidade para criar soluções.
+    Conhecimento avançado em desenvolvimento. Motivado para resolver problemas, facilidade para criar soluções.
 ----
 
 Habilidades
