@@ -4,7 +4,7 @@ Vagner Lucas
 | [English version](https://github.com/vagnerlucas/resume/blob/master/README.md) |
 | --------- |
 
-Salvador, BA, Brasil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas)
+Salvador, BA, Brasil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas) • [Portfolio](http://www.vagnerlucas.com) 
 
 ----
     Mais de oito anos de experiência na área de TI, sólido conhecimento em infraestrutura. 
