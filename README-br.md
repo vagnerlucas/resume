@@ -50,8 +50,10 @@ Formação Acadêmica
 Experiência
 ----------
 
-**Analista de Sistemas** - Instituto Educar (Salvador, Bahia, Brasil) - 2015 - Atual
 
+| **Analista de Sistemas** | **Instituto Educar (Salvador, Bahia, Brasil)** | 2015 - Atual |
+| - | - | - |
+    
 Coordenação para definir design, desenvolver e manter uma variedade de produtos usando:
 
 * Técnicas OO com C# .NET MVC (WebAPI), Angular JS
@@ -63,12 +65,17 @@ Coordenação para definir design, desenvolver e manter uma variedade de produto
 * Correções em geral, unit de testes e melhorias
 
     * Palavras-chave: C# .NET, EntityFramework, Javascript, AngularJS, OpenXML, MVC, Web API, Oracle
+---
 
-**QA Assistant** - GlobalME (Vancouver, BC, Canada) - October/2014
+| **QA Assistant** | **GlobalME (Vancouver, BC, Canada)** | Outubro/2014 |
+| - | - | - |
 
 Tested and provided data for speech recognition software Nuance Dragon
 
-**Analista de TI** - Odebrecht & OAS (Salvador, Bahia, Brasil) - 2010-2014
+---
+
+| **Analista de TI** | **Odebrecht & OAS (Salvador, Bahia, Brasil)** | 2010 - 2014 |
+| - | - | - |
 
 * Gerenciamento geral do Parque de TI
 
@@ -78,7 +85,10 @@ Tested and provided data for speech recognition software Nuance Dragon
 
     * Palavras-chave: ITIL, Rede, SO
 
-**Programador** - CTAI – Universidade Federal do Estado da Bahia (Salvador, Bahia, Brasil) - 2009-2010
+---
+
+| **Programador** | **CTAI – Universidade Federal do Estado da Bahia (Salvador, Bahia, Brasil)** | 2009 - 2010 |
+| - | - | - |
 
 * Desenvolvimento geral (GUI e Core) de uma ferramenta de IA relacionada a extração de petróleo e análise (Petrobrás). Escrito em Delphi e Java
 
