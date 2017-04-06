@@ -5,7 +5,7 @@ Vagner Lucas
 | --------- | 
 
 
-Salvador, BA, Brazil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas/en)
+Salvador, BA, Brazil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas/en) • [Portfolio](http://www.vagnerlucas.com)
 
 ----
     Over eight years of experience in IT, with a strong background in IT infrastructure. 
