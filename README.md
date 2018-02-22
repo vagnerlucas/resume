@@ -8,7 +8,7 @@ Vagner Lucas
 Salvador, BA, Brazil • [vagnerlucas@hotmail.com](mailto:vagnerlucas@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/vagnerlucas/en) • [Portfolio](http://www.vagnerlucas.com)
 
 ----
-    Over eight years of experience in IT, with a strong background in IT infrastructure. 
+    Over nine years of experience in IT, with a strong background in IT infrastructure. 
     
     Advanced development Knowledge. Self-motivating problem-solver. Easily adaptable to new environments.
 ----
